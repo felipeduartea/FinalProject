@@ -1,0 +1,4 @@
+joao 20 15 15
+martins 18 19 1
+tiago 0 0 0
+felipe 1 0 0
