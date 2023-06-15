@@ -1,7 +1,7 @@
 # Tabletop
 
 Projeto de Java realizado pelo grupo:
-Felipe Duarte Arcela
+Felipe Duarte 
 Thiago Leal
 Tiago Trindade
 Nicholas Rodrigues
